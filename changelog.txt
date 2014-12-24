@@ -1,0 +1,27 @@
+Platforms
+                                                 
+
+Allan Legemaate, Allan Daniel Software
+-----------------------
+Adsgames 2012
+Changelog:
+-----------------------
+
+Version 1.1
+--------------
+*Cave levels added
+*Icon changed
+*Animations added
+*Shotgun works
+*Switch guns with 1 and 2
+*Increased game speed
+*Fixed some map errors
+*Lined bullet up with gun on enemy guns
+*Website button directs to adsgames.net vs old web page
+
+Version 1.0
+--------------
+*Game Released
+
+Visit us at www.adsgames.net
+Contact us at contact@adsgames.net
